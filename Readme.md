@@ -1,0 +1,1 @@
+If u want to use the project, extract the tar file and name it as twitter and place it in the root of the project folder.

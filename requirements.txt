@@ -1,0 +1,9 @@
+networkx
+pandas
+matplotlib
+community
+python-louvain
+joblib
+scipy
+ndlib
+bokeh
